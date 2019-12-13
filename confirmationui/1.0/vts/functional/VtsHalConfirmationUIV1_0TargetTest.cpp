@@ -15,7 +15,7 @@
  */
 
 #define LOG_TAG "ConfirmationIOHidlHalTest"
-#include <cutils/log.h>
+#include <log/log.h>
 
 #include <algorithm>
 #include <iostream>
